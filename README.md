@@ -20,7 +20,7 @@ We used 6 different learning models throughout our analysis. They include:
 
 ### Oversampling - RandomOverSampler
 
-INSERT: ros image
+![ros](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/ros.png)
 
 The Balanced Accuracy Score is: 65%
 The precision for high_risk and low_risk are extremely different, which also throws off the F1 score for the two.
@@ -28,32 +28,32 @@ The precision for high_risk and low_risk are extremely different, which also thr
 
 ### Oversampling - SMOTE
 
-INSERT: smote image
+![smote](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/smote.png)
 
 The Balanced Accuracy Score is:  
 
 ### Undersampling - ClusterCentroids
 
-INSERT: cluster image
+![cluster](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/cluster.png)
 
 The Balanced Accuracy Score is:
 
 
 ### Combination (over & under) Sampling - SMOTEENN
 
-INSERT: smoteenn image
+![smoteenn](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/smoteenn.png)
 
 The Balanced Accuracy Score is:
 
 ### Ensemble - BalancedRandomForestClassifier
 
-INSERT: balance image
+![balance](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/balance.png)
 
 The Balanced Accuracy Score is:
 
 ### Ensemble - EasyEnsembleClassifier
 
-INSERT: easy image
+![easy](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/easy.png)
 
 The Balanced Accuracy Score is:
 
