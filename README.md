@@ -22,8 +22,9 @@ We used 6 different learning models throughout our analysis. They include:
 
 ![ros](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/ros.png)
 
-The Balanced Accuracy Score is: 65%
-The precision for high_risk and low_risk are extremely different, which also throws off the F1 score for the two.
+- The Balanced Accuracy Score is: 65%
+- There is a huge difference in precision between High and Low-risk, this also affects the f1 score
+- The Recall (sensitivity) between high and low are similar in the 60% range
 
 
 ### Oversampling - SMOTE
