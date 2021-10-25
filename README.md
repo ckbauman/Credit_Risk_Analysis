@@ -50,15 +50,15 @@ We used 6 different learning models throughout our analysis. They include:
 
 - The Balanced Accuracy Score is: 64%
 - There is also a huge difference in precision between high and low-risk, this affects the f1 score as well
-- The Recall (sensitivity) beween high and low are also worsening at 72% and 57%, butt this has been the highest rate for high-risk so far
+- The Recall (sensitivity) beween high and low are also worsening at 72% and 57%, but this has been the highest rate for high-risk so far
 
 ### Ensemble - BalancedRandomForestClassifier
 
 ![balance](https://github.com/ckbauman/Credit_Risk_Analysis/blob/main/Images/balance.png)
 
 - The Balanced Accuracy Score is: 79%
-- There is also a huge difference in precision between high and low-risk, but high-risk went up a big to 3%
-- The Recall (sensitivity) between high and low are stil far apart at 70% and 87%, but are highest values we've seen so far
+- There is also a huge difference in precision between high and low-risk, but high-risk went up a bit to 3%
+- The Recall (sensitivity) between high and low are still far apart at 70% and 87%, but are highest values we've seen so far
 
 ### Ensemble - EasyEnsembleClassifier
 
