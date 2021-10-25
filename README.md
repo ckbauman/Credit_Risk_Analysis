@@ -71,4 +71,4 @@ We used 6 different learning models throughout our analysis. They include:
 ## Summary
 
 - All summaries for each mmodel are listed above
-- We recommend using the last model, which is the EasyEnsemleClassifier.  This model showed the highest Accuracy rate of 93%.  The Recall (sensitivity) rates between the high and low-risk values were not only similar, they were also quite high at 92% and 94%.  This all indicates that we were able to reduce the amount of false negative values.
+- We recommend using the last model, which is the EasyEnsembleClassifier.  This model showed the highest Accuracy rate of 93%.  The Recall (sensitivity) rates between the high and low-risk values were not only similar, they were also quite high at 92% and 94%.  This all indicates that we were able to reduce the amount of false negative values.
